@@ -1,0 +1,119 @@
+run:
+Connecting to database...
+Patient ID: 1, First name: Bruce, Last name : Wayne, Diagnosis: Asthma, Admission date: 2014-01-23 Release date: 2014-01-25
+  **** Printing inpatients: 
+      Date of Stay: 2014-01-23, Room number: A1, DailyRate: 250.0, Supplies: 75.24, Services: 12.95
+      Date of Stay: 2014-01-24, Room number: A1, DailyRate: 250.0, Supplies: 90.15, Services: 58.12
+      Date of Stay: 2014-01-25, Room number: A1, DailyRate: 250.0, Supplies: 120.23, Services: 87.05
+  **** Printing surgeries: 
+      Date of Surgery: 2014-01-24, surgery: Lung Transplant, Room fee: 2500.12, Supplies: 934.23
+  **** Printing medications: 
+      Date of medication: 2014-01-24, Medication: Snickers, Unit cost: 1.25, Units: 5.0
+
+Patient ID: 2, First name: Barry, Last name : Allen, Diagnosis: Kidney Stones, Admission date: 2014-02-18 Release date: 2014-02-21
+  **** Printing inpatients: 
+      Date of Stay: 2014-02-18, Room number: B2, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+      Date of Stay: 2014-02-19, Room number: B2, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+      Date of Stay: 2014-02-20, Room number: B2, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+      Date of Stay: 2014-02-21, Room number: B2, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+  **** Printing surgeries: 
+      Date of Surgery: 2014-02-19, surgery: Kidney Transplant, Room fee: 2500.12, Supplies: 934.23
+  **** Printing medications: 
+      Date of medication: 2014-02-19, Medication: M and M, Unit cost: 1.1, Units: 15.0
+
+Patient ID: 3, First name: Clark, Last name : Kent, Diagnosis: Tonsilitis, Admission date: 2014-05-02 Release date: 2014-05-07
+  **** Printing inpatients: 
+      Date of Stay: 2014-05-02, Room number: C3, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+      Date of Stay: 2014-05-03, Room number: C3, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+      Date of Stay: 2014-05-04, Room number: C3, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+      Date of Stay: 2014-05-05, Room number: C3, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+      Date of Stay: 2014-05-06, Room number: C3, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+      Date of Stay: 2014-05-07, Room number: C3, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+      Date of Stay: 2014-05-07, Room number: C3, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+  **** Printing surgeries: 
+      Date of Surgery: 2014-05-03, surgery: Tonsil Transplant, Room fee: 2500.12, Supplies: 934.23
+  **** Printing medications: 
+      Date of medication: 2014-05-03, Medication: O Henry, Unit cost: 2.49, Units: 11.0
+
+Patient ID: 4, First name: Tony, Last name : Stark, Diagnosis: Appendicitis, Admission date: 2014-07-14 Release date: 2014-07-15
+  **** Printing inpatients: 
+      Date of Stay: 2014-07-14, Room number: D4, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+      Date of Stay: 2014-07-15, Room number: C4, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+  **** Printing surgeries: 
+      Date of Surgery: 2014-07-14, surgery: Appendix Transplant, Room fee: 2500.12, Supplies: 934.23
+  **** Printing medications: 
+      Date of medication: 2014-07-14, Medication: Caramilk, Unit cost: 4.23, Units: 3.0
+
+Patient ID: 5, First name: Bruce, Last name : Banner, Diagnosis: Gall Bladder Disease, Admission date: 2014-11-09 Release date: 2014-11-12
+  **** Printing inpatients: 
+      Date of Stay: 2014-11-09, Room number: E5, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+      Date of Stay: 2014-11-10, Room number: E5, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+      Date of Stay: 2014-11-11, Room number: E5, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+      Date of Stay: 2014-11-12, Room number: E5, DailyRate: 150.0, Supplies: 120.23, Services: 87.05
+  **** Printing surgeries: 
+      Date of Surgery: 2014-11-11, surgery: Gall Bladder Transplant, Room fee: 2500.12, Supplies: 934.23
+  **** Printing medications: 
+      Date of medication: 2014-11-11, Medication: Aero Bar, Unit cost: 9.43, Units: 19.0
+
+Patient ID: 6, First name: Alex, Last name : Dimitris, Diagnosis: Knee injury, Admission date: 2018-05-20 Release date: 2018-05-22
+  **** Printing inpatients: 
+  **** Printing surgeries: 
+  **** Printing medications: 
+
+Patient ID: 7, First name: Charlie, Last name : Zane, Diagnosis: Appendicitis, Admission date: 2018-05-20 Release date: 2018-05-22
+  **** Printing inpatients: 
+  **** Printing surgeries: 
+      Date of Surgery: 2018-05-21, surgery: Appendicitis, Room fee: 23.0, Supplies: 230.0
+  **** Printing medications: 
+
+Patient ID: 8, First name: Jin, Last name : May, Diagnosis: Fever, Admission date: 2018-05-20 Release date: 2018-05-22
+  **** Printing inpatients: 
+  **** Printing surgeries: 
+  **** Printing medications: 
+      Date of medication: 2018-05-20, Medication: Tylenol, Unit cost: 10.0, Units: 10.0
+
+Patient ID: 9, First name: Dina, Last name : Mattison, Diagnosis: Brain Cyst, Admission date: 2018-05-20 Release date: 2018-05-25
+  **** Printing inpatients: 
+  **** Printing surgeries: 
+  **** Printing medications: 
+
+Patient ID: 10, First name: Alina, Last name : Perry, Diagnosis: Head injury, Admission date: 2018-05-20 Release date: 2018-05-22
+  **** Printing inpatients: 
+  **** Printing surgeries: 
+  **** Printing medications: 
+
+Patient ID: 11, First name: Tina, Last name : Fay, Diagnosis: Asthma, Admission date: 2018-05-20 Release date: 2018-05-22
+  **** Printing inpatients: 
+  **** Printing surgeries: 
+  **** Printing medications: 
+
+Patient ID: 12, First name: Chris, Last name : Mandez, Diagnosis: Blader stone, Admission date: 2018-05-20 Release date: 2018-05-29
+  **** Printing inpatients: 
+      Date of Stay: 2018-05-21, Room number: W10, DailyRate: 112.0, Supplies: 90.0, Services: 39.3
+  **** Printing surgeries: 
+  **** Printing medications: 
+
+Patient ID: 13, First name: Milan, Last name : Mac, Diagnosis: Appendicitis, Admission date: 2018-05-20 Release date: 2018-05-22
+  **** Printing inpatients: 
+  **** Printing surgeries: 
+  **** Printing medications: 
+      Date of medication: 2018-05-21, Medication: Antibiotic ++, Unit cost: 23.0, Units: 230.0
+
+Patient ID: 14, First name: Luisa, Last name : Barry, Diagnosis: Dementia, Admission date: 2018-05-20 Release date: 2018-05-25
+  **** Printing inpatients: 
+  **** Printing surgeries: 
+  **** Printing medications: 
+
+Patient ID: 16, First name: Nina, Last name : Watson, Diagnosis: Kidney Stone, Admission date: 2018-05-20 Release date: 2018-05-22
+  **** Printing inpatients: 
+  **** Printing surgeries: 
+      Date of Surgery: 2018-05-20, surgery: Stone removal, Room fee: 11.0, Supplies: 10.0
+  **** Printing medications: 
+
+Patient ID: 17, First name: Jill, Last name : Keane, Diagnosis: Arithmia, Admission date: 2018-05-20 Release date: 2018-05-22
+  **** Printing inpatients: 
+      Date of Stay: 2018-05-22, Room number: Z6, DailyRate: 110.0, Supplies: 66.0, Services: 9.3
+  **** Printing surgeries: 
+  **** Printing medications: 
+
+BUILD SUCCESSFUL (total time: 0 seconds)
